@@ -1,4 +1,4 @@
-ota_url=https://github.com/regalstreak/rr_ota/raw/marshmallow/ota.xml
+ota_url=https://raw.githubusercontent.com/regalstreak/rr_ota/marshmallow/ota.xml
 release_type=Stable
 device_name=ro.product.device
 version_source=ro.modversion
