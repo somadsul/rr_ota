@@ -21,3 +21,4 @@
             	description="Download the latest Open GApps">http://opengapps.org/?arch=arm64&amp;api=6.0&amp;variant=nano</OpenGappsUrl>
 	</oneplus2>
     </Stable>
+</SlimOTA>
