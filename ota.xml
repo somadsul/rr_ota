@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
     <oneplus2>
-      <Filename>ResurrectionRemix-M-v5.6.5-20160319-oneplus2</Filename>
+      <Filename>ResurrectionRemix-M-v5.6.5-20160321-oneplus2</Filename>
       <RomUrl id="rom" title="Rom" description="Download ResurrectionRemix builds">http://downloads.regalstreak.me/oneplus2/ROMs/Resurrection-Remix-6.x/Full/</RomUrl>
       <ChangelogUrl id="changelog" title="Changelog" description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
       <OpenGappsUrl id="open_gapps" title="Open Gapps" description="Download the latest Open GApps">http://opengapps.org/?arch=arm64&amp;api=6.0&amp;variant=nano</OpenGappsUrl>
