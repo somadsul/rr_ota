@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
-    <oneplus2>
-      <Filename>ResurrectionRemix-M-v5.6.7-20160420-oneplus2</Filename>
-      <RomUrl id="rom" title="Rom" description="Download ResurrectionRemix builds">http://downloads.regalstreak.me/oneplus2/ROMs/Resurrection-Remix-6.x/Full/</RomUrl>
+    <k3gxx>
+      <Filename>ResurrectionRemix-M-v5.7.4-20170106-k3gxx</Filename>
+      <RomUrl id="rom" title="Rom" description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&flid=138073</RomUrl>
       <ChangelogUrl id="changelog" title="Changelog" description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
-      <OpenGappsUrl id="open_gapps" title="Open Gapps" description="Download the latest Open GApps">http://opengapps.org/?arch=arm64&amp;api=6.0&amp;variant=nano</OpenGappsUrl>
-      <XDAUrl id="xda" title="Official XDA Thread" description="Visit the official OnePlus 2 Resurrection Remix XDA thread">http://forum.xda-developers.com/oneplus-2/development/rom-resurrection-remix-v5-6-0-t3277901</XDAUrl>
-      <GroupUrl id="telegram" title="Official Telegram Group" description="Join the official OnePlus 2 Resurrection Remix Telegram group">http://telegram.me/rrop2</GroupUrl>
-    </oneplus2>
+      <OpenGappsUrl id="open_gapps" title="Open Gapps" description="Download the latest Open GApps">http://opengapps.org/?arch=arm&amp;api=6.0&amp;variant=nano</OpenGappsUrl>
+      <XDAUrl id="xda" title="Official XDA Thread" description="Visit the Resurrection Remix XDA thread">https://forum.xda-developers.com/galaxy-s5/galaxy-s-5-android-development-exynos/rom-resurrection-remix-5-7-4-t3526192</XDAUrl>
+      <GroupUrl id="telegram" title="Official Telegram Group" description="Join the S5 G900H all roms Telegram group">https://t.me/joinchat/AAAAAD6pII7BnVIqtYPEqA</GroupUrl>
+    </k3gxx>
   </Stable>
 </SlimOTA>
